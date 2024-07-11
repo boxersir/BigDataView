@@ -1,16 +1,8 @@
 
 <p align="center"><h1 align="center">100+套大数据可视化模板</h1></p>
-
+首先感谢原作者，整理了这么多的优秀案例，接下来，我要去重写使用react和vue,后面还要在uniapp以及taro上去实践一下，感性的朋友可以欢迎 `Watch`、`Star`，一起加入。
 </br></br>
 
-<p align="center">
-  <a href="https://igaowei.github.io/BigDataView/"><img src="https://img.shields.io/badge/%E9%A2%84%E8%A7%88-Demo-green" alt="预览"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DreamCoders-blue" alt="公众号"></a>
-  <a href="https://blog.csdn.net/qq_31766533/article/details/119274641"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/igaowei/bigdataview?label=Github&style=flat-square">
-  <a href='https://gitee.com/iGaoWei/big-data-view/stargazers'><img src='https://gitee.com/iGaoWei/big-data-view/badge/star.svg?theme=white' alt='star'></img></a>
-  <a href='https://gitee.com/iGaoWei/big-data-view/members'><img src='https://gitee.com/iGaoWei/big-data-view/badge/fork.svg?theme=white' alt='fork'></img></a>
-</p>
 
 
 #### 项目背景
@@ -18,21 +10,9 @@
 
 
 ```
-收集整理不易，如果觉得对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡 💘感谢支持💘
-```
-<p align="center"><img src="https://gitee.com/iGaoWei/big-data-view/raw/master/preview/wechat-code.png" width="320" height="320" alt="微信赞赏码" /></p>
 
 </br></br>
 
-#### 源码地址
-
-<p style="padding:10px;"  width="90%">
-
-1. Gitee https://gitee.com/iGaoWei/big-data-view
-
-2. GitHub https://github.com/iGaoWei/BigDataView
-
-</p>
 
 #### 使用说明
 
@@ -431,23 +411,6 @@ git clone https://github.com/iGaoWei/BigDataView.git
 #### 温馨提示：更多模板陆续更新中
 
 
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/preview/wechat-code.png" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/更多内容关注公众号.gif'" width="60%"/>
-<p>
-收集整理不易，如果觉得对你有对您有帮助，您可以点赞评论收藏支持! <br>
-也可以微信扫码上方赞赏码随意支持，最好您可以点右上角 💘Star💘支持,谢谢！～
-</p>
-</div>
 
 
-#### 公众号
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="./preview/更多内容关注公众号.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/更多内容关注公众号.gif'"/>
-<p>记录自己折腾不止的人生，留住时光的一抹轨迹 ! 
-关注公众号，每天分享编程开发相关的技术文章、工具资源、精选课程、视频教程、IT资讯、学习资料等。
-</p>
-</div>
 
-[![陌生人/BigDataView](https://gitee.com/iGaoWei/big-data-view/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/iGaoWei/big-data-view)
